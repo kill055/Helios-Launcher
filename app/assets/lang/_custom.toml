@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Helios Launcher - v1.0.2 (Beta)"
 
 [ejs.landing]
 mediaGitHubURL = "https://www.battly.site"
